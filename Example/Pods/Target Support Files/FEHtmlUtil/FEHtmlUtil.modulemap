@@ -1,0 +1,6 @@
+framework module FEHtmlUtil {
+  umbrella header "FEHtmlUtil-umbrella.h"
+
+  export *
+  module * { export * }
+}

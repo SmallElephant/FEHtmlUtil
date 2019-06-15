@@ -1,0 +1,16 @@
+PODS:
+  - FEHtmlUtil (0.1.0)
+
+DEPENDENCIES:
+  - FEHtmlUtil (from `../`)
+
+EXTERNAL SOURCES:
+  FEHtmlUtil:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FEHtmlUtil: abb32ef8ed0bc4c517fbd7923ac08e47c1c5b07f
+
+PODFILE CHECKSUM: e41dab3c8f0dae84768c236277323563f7e31274
+
+COCOAPODS: 1.6.1

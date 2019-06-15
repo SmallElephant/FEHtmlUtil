@@ -1,0 +1,22 @@
+{
+  "name": "FEHtmlUtil",
+  "version": "0.1.0",
+  "summary": "A short description of FEHtmlUtil.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/FlyElephantX/FEHtmlUtil",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FlyElephantX": "sfmkeso@163.com"
+  },
+  "source": {
+    "git": "https://github.com/FlyElephantX/FEHtmlUtil.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FEHtmlUtil/Classes/**/*"
+}
